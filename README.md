@@ -1,2 +1,2 @@
 # cvpr
-mid
+course project mid and final
